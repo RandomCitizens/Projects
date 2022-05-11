@@ -1,0 +1,8 @@
+Credit Card Fraud Detection Analysis - Machine Learning Models
+February 2022
+
+Methodology:- Predicting whether a credit card transaction is legit transaction or fraud transaction based on various parameters and four models.
+
+Deliverables:- The models detected the data to check whether the transaction is legit transaction or fraud transaction, with more than 90% accuracy.
+
+Project Link :- https://www.kaggle.com/code/shubhampatil47/credit-card-fraud-detection-analysis
